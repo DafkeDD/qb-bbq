@@ -1,5 +1,5 @@
 
-Discord - https://discord.gg/XPuqBVtyqX
+Discord - https://discord.gg/3WYz3zaqG5
 
 # A BBQ Script for QBCore Framework
 
