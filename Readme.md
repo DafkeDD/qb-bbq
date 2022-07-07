@@ -26,7 +26,8 @@ qb-shops - https://github.com/qbcore-framework/qb-shops
 
 ## Known Issues 
 ```
-Prop sometimes stays in hand after emote is done. i believe this is an issue with dpemotes but i will look into this more
+prop sometimes stays in hand after emote is done. i believe this is an issue with dpemotes
+but i will look into this more
 ```
 
 ## Credits : 
